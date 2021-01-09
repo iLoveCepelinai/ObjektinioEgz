@@ -2,7 +2,7 @@
 **Matas Amšiejus**
 ## Svarbi informacija
 * Norint įdiegti .exe failą, atsidaryti setup
-* Kad veiktų .exe failas, tame pačiame aplanke turi būti *tekstas.txt* failas su jūsų tekstu
+* Kad veiktų .exe failas, tame pačiame aplanke, kur įdiegėte programą, turi būti *tekstas.txt* failas su jūsų tekstu
 * Programa yra pritaikyta darbui su angliška abėcėle, tad su lietuviškais simboliais tikėkitės "hieroglifų" ir nevisiškai tikslaus programos veikimo
 ## Pagrindinės funkcijos
 * **skaitymas** : Apdoroja tekstą ir sukelia į map (zodziai)
