@@ -1,0 +1,146 @@
+Kompiuterinis zaidimas
+Jump to navigationJump to search
+
+"Spacewar!" - pirmasis kompiuterinis zaidimas
+Kompiuterinis, vaizdo arba videozaidimas - zaidimas, zaidziamas naudojant kompiuteri ar kompiuteri, kuris daugiausiai pritaikytas zaisti zaidimus (zaidimu konsoles, delnines zaidimu konsoles). Mazdaug nuo 2010 m. kompiuteriniai zaidimai pradeti placiai pritaikyti ismaniesiems telefonams, plansetems. Daznai kompiuteriniai zaidimai vadinami videozaidimais. Atskirtis tarp kompiuteriniu ir videozaidimu savoku buvo ryski kompiuteriniu zaidimu pramones vystymosi pradzioje, kai videozaidimais buvo vadinami zaidimai, zaidziami zaidimu automatais ir pirmaisiais kompiuteriais, skirtais zaisti vien zaidimus.
+
+www.a.lt
+www.b.com
+https://www.a.lt/
+https://www.a.com/
+http://www.b.lt/
+http://www.b.com/
+Turinys
+1	Istorija
+1.1	Virtualios realybes zaidimai
+2	Kompiuteriniu zaidimu zanrai
+3	Turinys
+3.1	zaidejo laisve
+4	zaidimu pramone
+5	Populiariausi zaidimai
+6	Isnasos
+7	Nuorodos
+Istorija
+Pagrindinis straipsnis - Kompiuteriniu zaidimu istorija.
+
+"Tennis for Two", vienas pirmuju analoginiu kompiuteriniu zaidimu, naudojes osciloskopa vaizdui atvaizduoti
+Daznai istorijos pradzia laikomi sie trys ivykiai:
+
+televizijos inzinieriaus Ralfo Bajerio interaktyviosios televizijos ideja, pasiulyta 1951 metais Bronkse (Niujorkas), kuri taip ir nebuvo realizuota.
+Kembridzo universiteto studento A. S. Daglaso 1952 m. realizuota programa OXO: Game of Naughts and Crosses ("kryziukai - nuliukai"), parasyta kompiuteriui EDSAC, kaip mokslinis darbas, rodantis saveika tarp zmogaus ir kompiuterio.
+Viljamo Higinbotemo (William Higinbotham) 1958 m. sukurtas zaidimas "Tenisas dviem" (Tennis For Two), skirta uzimti Niujorko Brukheveno nacionalines laboratorijos lankytojus. sis zaidimas issiskyre is ankstesniu, nes vaizdavo supaprastinta teniso aikstele, virtualu kamuoliuka veike gravitacijos jega.
+
+ivairiu laikmeciu kompiuteriniu zaidimu laikmenos
+Virtualios realybes zaidimai
+Virtualios realybes (VR) zaidimai pradeti leisti 2016 m. rinkoje pasirodzius VR akiniams ("Oculus Rift", "HTC Vive" ir "PlayStation VR") − irenginiams, kurie naudojami uzdeti ant zaidejo galvos ir ivairiu judesio davikliu pagalba galintys sekti zaidejo galvos ir akiu judesius, bei galintys perteikti kiekvienai zaidejo akiai 360 laipsniu vaizda. Pagrindiniu sio zaidimo budo trukumu yra VR irenginiu auksta kaina. Taip pat, kadangi perteikti 360 laipsniu vaizda dviem akim reikia zymiai galingesniu grafikos procesoriu, todel ir zaidimu platforma, suderinama su VR zaidimais, atitinkamai irgi brangesne. 2016 m. kai kurie populiarus zaidimai jau buvo adaptuoti zaisti VR rezimu: "Minecraft", "Half Life 2", "Eve Online" ir kt.[1]
+
+Kompiuteriniu zaidimu zanrai
+Pagrindinis straipsnis - Kompiuteriniu zaidimu zanrai.
+Veiksmo zaidimai - sio zanro zaidimuose svarbiausia yra ju atpalaiduojanti, linksminanti verte. cia dazniausiai reikia greitos reakcijos, igudziu greitai tinkamai panaudoti valdymo priemones. Savo prasme tokie zaidimai atitinka sporta (kaip laisvalaikio praleidimo buda - taciau, be abejo, ne kaip sveikatos stiprinimo priemone).
+Subzanrai: beat 'em up, hack and slash, mustyniu zaidimai, platformer zaidimai, saudykles (pirmojo asmens saudykles, treciojo asmens saudykles, taktines saudykles, shoot 'em up, MMOFPS) ir kt.
+Nuotykiu zaidimai - sio zanro zaidimuose svarbiausia yra siuzetas, istorija, kuri buna is anksto sukurta, nors daznai ir zaidejas gali ja kazkiek itakoti (pasirinkdamas, ka sneketi su kitais veikejais, atlikdamas viena dalyka pirma kito ir kt.). Tai - vienas istorijos perteikimo budu ir tokie zaidimai savo prasme atitinka knygas, filmus ir spektaklius[2]. Taciau kai kuriuose zanro zaidimuose svarbiau nei siuzetas yra ivairiu praktiniu uzduociu, galvosukiu sprendimas - nors jie is esmes skiriasi nuo siuzetu paremtu adventure, jie irgi laikomi to paties zanro dalimi.
+Subzanrai: tekstiniai nuotykiu zaidimai, grafiniai nuotykiu zaidimai, vizualiniai romanai
+Veiksmo-nuotykiu zaidimai - sis zanras apima veiksmo ir nuotykiu zaidimo elementus.
+Subzanrai: stealth zaidimai, islikimo siaubas
+Vaidmenu zaidimai (role-playing video games, RPGs).
+Subzanrai: veiksmo RPG, MMORPG, roguelike, sandbox RPG ir kt.
+Simuliatoriai - sio zanro zaidimuose svarbiausia yra tikroviskumas. Jie atkuria tam tikrus realaus dabarties, praeities ar isivaizduojamo ateities gyvenimo veiksmus - pavyzdziui, orlaiviu pilotavima, krepsinio zaidima ar net seifu lauzima. Tikrame gyvenime simuliatoriai atitinka realius veiksmus, kuriuos jie atkuria.
+Subzanrai: statybos ir vadybos simuliatoriai, gyvenimo simuliatoriai, transporto priemoniu simuliatoriai, sporto simuliatoriai ir kt. Pavyzdys: "Kelyje 2".
+Strategijos - sio zanro zaidimuose svarbiausia yra poreikis mastyti. cia zaidejas vadovauja tam tikrai sistemai - pvz., valstybei ar kompanijai - taciau, skirtingai nuo simuliatoriaus, tikroviskumas cia nesureiksminamas; daug kas yra abstraktu ir labiau orientuota i zaidimo idomuma, nei i tikroviskuma. Pavyzdziui, i karine taktika orientuotose strategijose ekonominiai ir politiniai valstybes valdymo aspektai gali buti visiskai supaprastinti arba ju visai nebuti. Strategijos savo prasme atitinka stalo zaidimus (tokius, kaip sachmatai, saskes ar Monopolis).
+Subzanrai: 4X, ejimu strategijos (TBS), realaus laiko strategijos (RTS); taip pat karo ir ekonomines strategijas; valstybes valdymo ir verslo valdymo strategijas (pastarosios kartais ivardijamos simuliatoriais) ir kt. Atskira zanro atsaka - taktiniai zaidimai, kuriuose valdoma grupe (kariniu) vienetu. Svarbiausia taktinio zaidimo dalis - taktinis kovu vykdymas, atsisakant strategijoms budingos ekonomines, istekliu valdymo dalies.
+Taip pat kai kada yra ivardijami kiti pagrindiniai zanrai: pavyzdziui, paprasti zaidimai (angl. casual games - ivairus galvosukiai, kortu zaidimai, kolekcionuojamu kortu zaidimai, stalo zaidimu kompiuterines versijos, siais laikais daznai zaidziami tiesiog interneto narsyklese; kitais atvejais gali buti priskiriami strategijai), vaidmenu zaidimai (besistengiantys perteikti stalo vaidmenu zaidimus, nors ir su tam tikrais nukrypimais; kitais atvejais sis zanras gali buti ivardijamas kaip nuotykiu, strategijos ir kartais veiksmo misinys).
+
+siais laikais daznos ivairios: www.bandymastekste.lt zanru kombinacijos, pvz., veiksmo su strategijos elementais (veiksmo zaidimas, kuriame dar reikia isakineti savo komandos nariams).
+
+Turinys
+Beveik visi kompiuteriniai zaidimai turi formalius kriterijus, pagal kuriuos vertinama zaidejo sekme, pvz., surinktu tasku skaicius (angl. highscore), is anksto nurodytu sekmes kriteriju pasiekimas. Kai kuriuose zaidimuose nera formuluojamas tikslas: zaidimas gali buti tesiamas tiek, kiek nori zaidejas, arba baigiasi tik istikus nesekmei.
+
+zaidejo laisve
+Siuzetiniuose zaidimuose zaidejui gali buti suteikiama tam tikras laisves laipsnis arba pasirinkimo laisves gali visai nebuti (t y., zaidimas visiskai linijinis). Kartais sukuriama pora galimu zaidimo pabaigos liniju, kurios priklauso nuo zaidejo priimtu sprendimu. Net ir linijiniuose siuzetuose daznai buna numatyta misijos pasirinkimo galimybe (2 ar daugiau galimu misiju), taciau zaidimo baigtis vienoda, ir zaidejas turi butinai rinktis konkrecia misija, noredamas progresuoti zaidime. Pastaruoju metu nemazai zaidimu pasizymi didele zaideju veikimo laisve, t. y., zaidejas nera primygtinai verciamas vykdyti siuzetines uzduotis, o gali vykdyti pasalines misijas. Kartais net yra sukuriamas visas pasaulis, kuri zaidejas gali tyrineti ir visai nevykdyti siuzetiniu uzduociu (pvz., "Fallout", "The Elder Scrolls" serijos).
+
+zaidimu pramone
+Kompiuteriniu zaidimu pramones apyvarta 2016 m. vertinta 91 mlrd. JAV doleriu.[3] Tarp garsiausiu zaidimu gamintoju ir leideju minimos sekancios kompanijos[4][5]:
+
+"Microsoft" (JAV)
+"Sony Computer Entertainment" (Japonija)
+"Nintendo" (Japonija)
+"Electronic Arts "(JAV)
+"Activision Blizzard" (JAV)
+"Sega" (Japonija)
+"Ubisoft" (Prancuzija)
+"Atari" (veike iki 1996 m.)
+"Bethesda Softworks" (JAV)
+"Square Enix" (Japonija)
+"Konami" (Japonija)
+"Capcom" (Japonija)
+"Bandai Namco Entertainment" (Japonija)
+"Take Two Interactive" (JAV)
+"Tencent" (Kinija)
+"King Digital Entertainment" (svedija)
+"Valve" (JAV)
+"Warner Bros. Interactive Entertainment" (JAV)
+Populiariausi zaidimai
+Pagrindinis straipsnis - Sarasas:Populiariausi kompiuteriniai zaidimai.
+zemiau pateikiami populiariausiu zaidimu ir zaidimu franciziu sarasai. i siuos sarasus neitraukiami kartu su zaidimo konsole parduodami (integruoti is anksto) zaidimai, nemokami zaidimai ir interneto zaidimai, kurie zaidziami perkant abonementa. Taip pat neatsizvelgta i "piratavimo" budu (nelegaliomis kopijomis) isplatintus zaidimus.
+
+Daugiausiai kopiju parduoti vienetiniai zaidimai
+2015 08 05 duomenys[6]:
+
+Vieta	zaidimo pavadinimas	Platforma	Parduota,
+mln. vnt
+1	"Tetris"	mobiliosios	100
+2	"Wii Sports"	Nintendo Wii	82
+3	"Minecraft"	ivairios	70
+4	"Grand Theft Auto V"	ivairios	52
+5	"Super Mario Bros."	NES	40,24
+6	"Mario Kart Wii"	Nintendo Wii	35,53
+7	"Tetris"	Game Boy	35
+8	"Wii Sports Resort"	Nintendo Wii	32,37
+9	"New Super Mario Bros."	Nintendo DS	30,38
+10	"Diablo III"	ivairios	30
+11	"Pac-Man"	mobiliosios	30
+2014 m. liepos duomenimis pagal Gineso pasaulio rekordu knyga populiariausia visu laiku zaidimu fransize buvo "Nintendo" sukurta "Mario" fransize su daugiau nei 180 zaidimu ir 528 mln. parduotu kopiju (iskaitant visas subfransizes).[7]
+
+Populiariausios zaidimu fransizes 2015 m. ziniomis[8]
+
+Fransize	Kurejai/leidejai	zanras	Minimi
+pardavimai,
+mln. vnt
+"Super Mario"	"Nintendo"	nuotykiu platformeris	297 [9]
+"Pokémon"	"Nintendo"	vaidmenu	270 [10]
+"Grand Theft Auto"	"Rockstar Games"	veiksmo, nuotykiu	220 [11]
+Wii serija	"Nintendo"	judesio simuliacijos	200
+"Call of Duty"	"Activision"	saudykle	175 [12]
+"The Sims"	"Electronic Arts"	socialiniu santykiu simuliacijos	175 [13]
+"Need for Speed"	"Electronic Arts"	lenktyniu	150 [14]
+"Sonic the Hedgehog"	"Sega"	nuotykiu platformeris ir kita	150
+"Tetris"	Aleksejus Pazitnovas	galvosukiu	143 [15]
+"Final Fantasy"	"Square Enix"	vaidmenu	110 [16]
+"Mario Kart"	"Nintendo"	lenktyniu	105,3
+"LEGO"	"Warner Bros."	ivairus	> 100 [17]
+"Madden NFL"	"Electronic Arts"	sporto	> 100 [18]
+"FIFA"	"Electronic Arts"	sporto	> 100 [19]
+Isnasos
+ techradar.com
+ http://adventurelt.awardspace.com 1
+ pcgamer.com
+ statista.com
+ therichest.com
+ forbes.com, 2015 08 05
+ guinnessworldrecords.com
+ techtimes.com
+ techtimes.com
+ techtimes.com
+ gamespot.com
+ gamespot.com
+ cnn.com
+ investor.ea.com
+ techtimes.com
+ hd.square-enix.com
+ gamespot.com
+ money.cnn.com
+ gamespot.com
+Nuorodos
+
+Kompiuteriniai zaidimai visuomeneje
+Kategorija: Kompiuteriniai zaidimai
